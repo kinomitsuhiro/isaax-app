@@ -1,6 +1,5 @@
 import time
 
 while True:
-	print("Hello IoT from isaax")
+	print("Hello New World")
 	time.sleep(5)
-
